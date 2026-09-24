@@ -1,6 +1,5 @@
 # Railway-Ticket-Management-System
 
-# Railway Management System 🚆
 
 ## Overview
 The Railway Management System is an Object-Oriented Programming (OOP) project designed to automate and manage railway operations efficiently. The system provides functionalities for managing trains, passengers, schedules, bookings, and ticket information through a structured software solution.
