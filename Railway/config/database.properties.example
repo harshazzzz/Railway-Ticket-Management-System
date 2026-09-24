@@ -1,0 +1,4 @@
+# Copy to config/database.properties. Never commit the real file.
+db.url=jdbc:mysql://localhost:3306/railway?sslMode=REQUIRED&connectionTimeZone=LOCAL
+db.user=railway_app
+db.password=REPLACE_WITH_YOUR_DATABASE_PASSWORD

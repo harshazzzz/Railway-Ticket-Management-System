@@ -1,0 +1,117 @@
+{
+  "suite": "com.railway.RailServiceTest",
+  "tests": 21,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "seconds": 61.763,
+  "database": "H2 2.3.232, MySQL compatibility mode",
+  "runtime": "Java 23.0.1, compiled with --release 17",
+  "cases": [
+    {
+      "name": "crossAccountPrivacy",
+      "seconds": 3.002,
+      "passed": true
+    },
+    {
+      "name": "bookingPersistsTicketPaymentAndAvailability",
+      "seconds": 2.184,
+      "passed": true
+    },
+    {
+      "name": "passwordsAreHashedAndInputCleared",
+      "seconds": 2.916,
+      "passed": true
+    },
+    {
+      "name": "deactivatedSessionIsRevoked",
+      "seconds": 3.916,
+      "passed": true
+    },
+    {
+      "name": "roleAndSessionPermissions",
+      "seconds": 2.349,
+      "passed": true
+    },
+    {
+      "name": "userCrud",
+      "seconds": 2.146,
+      "passed": true
+    },
+    {
+      "name": "historyProtectsTrainDetailsAndRetirement",
+      "seconds": 2.075,
+      "passed": true
+    },
+    {
+      "name": "injectionIsLiteralData",
+      "seconds": 2.242,
+      "passed": true
+    },
+    {
+      "name": "validationRejectsInvalidInputs",
+      "seconds": 2.543,
+      "passed": true
+    },
+    {
+      "name": "seatValidationAndDuplicatePrevention",
+      "seconds": 2.395,
+      "passed": true
+    },
+    {
+      "name": "loginAndPolymorphism",
+      "seconds": 2.965,
+      "passed": true
+    },
+    {
+      "name": "scheduleValidationAndSnapshot",
+      "seconds": 2.984,
+      "passed": true
+    },
+    {
+      "name": "trainCrud",
+      "seconds": 2.258,
+      "passed": true
+    },
+    {
+      "name": "bootstrapCannotCreateSecondAdmin",
+      "seconds": 2.995,
+      "passed": true
+    },
+    {
+      "name": "cancellationRefundIsIdempotentAndSeatReusable",
+      "seconds": 2.8,
+      "passed": true
+    },
+    {
+      "name": "competingBookingsHaveExactlyOneWinner",
+      "seconds": 4.073,
+      "passed": true
+    },
+    {
+      "name": "declinedPaymentRollsBackEverything",
+      "seconds": 4.595,
+      "passed": true
+    },
+    {
+      "name": "reportsBalanceChargeAndRefund",
+      "seconds": 2.634,
+      "passed": true
+    },
+    {
+      "name": "duplicateEmailAndNormalization",
+      "seconds": 3.501,
+      "passed": true
+    },
+    {
+      "name": "departedSchedulesCannotBeBookedOrCancelled",
+      "seconds": 3.72,
+      "passed": true
+    },
+    {
+      "name": "loginRejectsIncorrectAndMissingAccount",
+      "seconds": 3.377,
+      "passed": true
+    }
+  ]
+}
