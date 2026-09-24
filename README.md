@@ -25,7 +25,6 @@ The Railway Management System is an Object-Oriented Programming (OOP) project de
 ## Technologies Used
 - Programming Language: Java / C++ (change according to your project)
 - Object-Oriented Programming
-- Database (if used: MySQL)
 
 ## Project Purpose
 This project demonstrates the practical application of Object-Oriented Programming concepts by creating a real-world railway management solution with modular and maintainable code.
