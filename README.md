@@ -31,4 +31,4 @@ The Railway Management System is an Object-Oriented Programming (OOP) project de
 This project demonstrates the practical application of Object-Oriented Programming concepts by creating a real-world railway management solution with modular and maintainable code.
 
 ## Author
-Your Name
+Harshana Karunarathna
