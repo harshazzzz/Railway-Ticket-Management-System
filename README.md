@@ -22,7 +22,7 @@ The Railway Management System is an Object-Oriented Programming (OOP) project de
 - Object Relationships
 
 ## Technologies Used
-- Programming Language: Java / C++ (change according to your project)
+- Programming Language: Java 
 - Object-Oriented Programming
 
 ## Project Purpose
